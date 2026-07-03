@@ -48,7 +48,7 @@ const HeroSection = () => {
                   2000,
                   "React Developer",
                   2000,
-                  "UI Designer",
+                  "UI/UX Designer",
                   2000,
                   "JavaScript",
                   2000,
@@ -143,7 +143,7 @@ const HeroSection = () => {
             <img
               src={HomeImage}
               alt="Thirumalarao"
-              className="relative z-10 w-[350px] lg:w-[360px] h-[370px] lg:h-[500px] rounded-2xl border-8 border-white shadow-2xl hover:scale-105 transition duration-500"
+              className="relative z-10 w-[350px] lg:w-[340px] h-[370px] lg:h-[500px] rounded-2xl border-8 border-white shadow-2xl hover:scale-105 transition duration-500"
             />
 
           </motion.div>
